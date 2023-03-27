@@ -1,0 +1,29 @@
+/* ESTILOS DEL TERRARIO */
+ 
+ h1{
+  color:rgb(41, 97, 19)
+  border: 3px;
+ border-style: dashed; 
+}
+#left-container{
+    background-color:#eee ;
+    width: 15%;
+    height: 100%;
+    left:0px;
+    top:0px;
+    position: absolute;
+    border: 3px;
+    border-style: dashed;
+    border-color:rgb(17, 34, 10)
+    
+}
+#right-container{
+    background-color:#eee ;
+    width: 15%;
+    height: 100%;
+    right:0px;
+    top:0px;
+    border: 3px;
+    border-style: dashed;
+    border-color:rgb(17, 34, 10)
+}
